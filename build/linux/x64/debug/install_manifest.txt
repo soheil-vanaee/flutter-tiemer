@@ -1,0 +1,12 @@
+/home/soheil/Desktop/timer/timer/build/linux/x64/debug/bundle/timer
+/home/soheil/Desktop/timer/timer/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/soheil/Desktop/timer/timer/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/soheil/Desktop/timer/timer/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/soheil/Desktop/timer/timer/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/soheil/Desktop/timer/timer/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/soheil/Desktop/timer/timer/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/soheil/Desktop/timer/timer/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/soheil/Desktop/timer/timer/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/soheil/Desktop/timer/timer/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/soheil/Desktop/timer/timer/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/soheil/Desktop/timer/timer/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
